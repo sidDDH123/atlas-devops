@@ -1,2 +1,2 @@
-print("Hello GitHub Actions")y
+print("Hello GitHub Actions")
 
